@@ -1,2 +1,22 @@
-
+.item-1{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+.item-2{
+	width:100px;
+	height:100px;
+	background-color:greenyellow;
+}
+.item-3{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
+.holder{
+display:flex;	
+	flex-wrap:wrap;
+	 justify-content: space-evenly;
+}
+/* Your CSS Code here. */
 /* Your CSS Code here. */
